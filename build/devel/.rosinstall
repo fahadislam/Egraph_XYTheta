@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fahad/catkin_ws/src/egraph-environments/egraph_xytheta/build/devel/setup.sh

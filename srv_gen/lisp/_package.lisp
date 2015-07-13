@@ -1,0 +1,10 @@
+(cl:defpackage egraph_xytheta-srv
+  (:use )
+  (:export
+   "GETXYTHETAPLAN"
+   "<GETXYTHETAPLAN-REQUEST>"
+   "GETXYTHETAPLAN-REQUEST"
+   "<GETXYTHETAPLAN-RESPONSE>"
+   "GETXYTHETAPLAN-RESPONSE"
+  ))
+
